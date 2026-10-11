@@ -90,10 +90,12 @@ def gen(repo, accent, gold, stars, created, releases, bg_path=None):
     area = line + " %.1f,%.1f %.1f,%.1f" % (X(t1), M_T + PLOT_H, M_L, M_T + PLOT_H)
 
     # 背景插画：base64 内嵌（<img> 上下文的 SVG 禁外部引用）
+    # 尺寸刻意与画布同比例，且不写 preserveAspectRatio(slice)：Chrome 在 HTTP 顶层 SVG 文档里
+    # 对 slice 的渲染不可靠（会退化成按固有像素裁左上角），meet + 等比例尺寸两边都稳。
     bg = ""
     if bg_path and os.path.exists(bg_path):
         b64 = base64.b64encode(open(bg_path, "rb").read()).decode()
-        bg = ('<image x="0" y="0" width="%d" height="%d" preserveAspectRatio="xMidYMid slice" '
+        bg = ('<image x="0" y="0" width="%d" height="%d" '
               'href="data:image/jpeg;base64,%s"/>' % (W, H, b64))
 
     grid, ylabels = [], []
