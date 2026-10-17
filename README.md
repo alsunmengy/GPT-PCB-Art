@@ -2,6 +2,7 @@
 # GPT-6 Astra PCB Art
 
 > **ChatGPT, 与无限智慧交流的良伴**
+
 >视频演示【[开源]谁不想要一个带NFC的GPT龙娘PCB呢-哔哩哔哩】 https://b23.tv/rteeCtj
 ## ⭐ Star History
 
