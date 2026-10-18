@@ -8,6 +8,7 @@
 
 [![Star History](https://raw.githubusercontent.com/alsunmengy/GPT-PCB-Art/main/.github/star-history/chart.svg)](https://github.com/alsunmengy/GPT-PCB-Art/stargazers)
 
+[![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-点击支持-blue?style=for-the-badge)](https://github.com/alsunmengy/GPT-PCB-Art/stargazers)
 
 > 🐉 GPT 拟人化龙娘「六 Astra」艺术纪念 PCB，嘉立创EDA开源硬件项目，双面彩色丝印 + 沉金描边，圆角卡片外形，无电气功能，纯收藏向工艺板。
 
