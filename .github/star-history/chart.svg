@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" width="800" height="460" role="img" aria-labelledby="t d">
   <title id="t">alsunmengy/GPT-PCB-Art star history</title>
-  <desc id="d">10 GitHub stars from 2026-10-11 to 2026-10-20, 1 releases marked</desc>
+  <desc id="d">10 GitHub stars from 2026-10-11 to 2026-10-21, 1 releases marked</desc>
   <defs>
     <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#7B61C9" stop-opacity="0.34"/>
@@ -23,15 +23,15 @@
     .rel{font:400 10.5px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#B07E1E}
   </style>
   <text x="60" y="30" class="ttl">★ alsunmengy/GPT-PCB-Art · Star History</text>
-  <text x="60" y="50" class="sub">六 Astra 龙娘 · 10 stars · 2026-10-11 → 2026-10-20（创建至今）  ·  1 个 release</text>
+  <text x="60" y="50" class="sub">六 Astra 龙娘 · 10 stars · 2026-10-11 → 2026-10-21（创建至今）  ·  1 个 release</text>
   <line x1="60.0" y1="414.0" x2="770.0" y2="414.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="60.0" y1="338.5" x2="770.0" y2="338.5" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="60.0" y1="263.0" x2="770.0" y2="263.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="60.0" y1="187.5" x2="770.0" y2="187.5" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="60.0" y1="112.0" x2="770.0" y2="112.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/>
   <line x1="60.0" y1="112.0" x2="60.0" y2="414.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="237.5" y1="112.0" x2="237.5" y2="414.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="415.0" y1="112.0" x2="415.0" y2="414.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="592.5" y1="112.0" x2="592.5" y2="414.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="770.0" y1="112.0" x2="770.0" y2="414.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/>
   <line x1="60.3" y1="112.0" x2="60.3" y2="414.0" stroke="#B07E1E" stroke-opacity="0.75" stroke-width="1.2" stroke-dasharray="4 4"/>
   <text transform="translate(64.3,104.0) rotate(-90)" class="rel">龙娘</text>
   <text x="52.0" y="408.0" text-anchor="end" class="ax">0</text><text x="52.0" y="342.5" text-anchor="end" class="ax">3</text><text x="52.0" y="267.0" text-anchor="end" class="ax">6</text><text x="52.0" y="191.5" text-anchor="end" class="ax">9</text><text x="52.0" y="125.0" text-anchor="end" class="ax">12</text>
-  <text x="60.0" y="434.0" text-anchor="start" class="ax">10-11</text><text x="237.5" y="434.0" text-anchor="middle" class="ax">10-13</text><text x="415.0" y="434.0" text-anchor="middle" class="ax">10-15</text><text x="592.5" y="434.0" text-anchor="middle" class="ax">10-18</text><text x="770.0" y="434.0" text-anchor="end" class="ax">10-20</text>
-  <polygon points="60.0,414.0 154.3,388.8 208.9,363.7 450.7,338.5 515.5,313.3 570.0,288.2 598.7,263.0 602.0,237.8 615.7,212.7 616.4,187.5 743.4,162.3 770.0,162.3 770.0,414.0 60.0,414.0" fill="url(#fill)"/>
-  <polyline points="60.0,414.0 154.3,388.8 208.9,363.7 450.7,338.5 515.5,313.3 570.0,288.2 598.7,263.0 602.0,237.8 615.7,212.7 616.4,187.5 743.4,162.3 770.0,162.3" fill="none" stroke="#7B61C9" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="60.0" y="434.0" text-anchor="start" class="ax">10-11</text><text x="237.5" y="434.0" text-anchor="middle" class="ax">10-13</text><text x="415.0" y="434.0" text-anchor="middle" class="ax">10-16</text><text x="592.5" y="434.0" text-anchor="middle" class="ax">10-18</text><text x="770.0" y="434.0" text-anchor="end" class="ax">10-21</text>
+  <polygon points="60.0,414.0 144.9,388.8 194.1,363.7 411.8,338.5 519.2,313.3 545.1,288.2 548.1,263.0 560.4,237.8 561.1,212.7 675.4,187.5 752.5,162.3 770.0,162.3 770.0,414.0 60.0,414.0" fill="url(#fill)"/>
+  <polyline points="60.0,414.0 144.9,388.8 194.1,363.7 411.8,338.5 519.2,313.3 545.1,288.2 548.1,263.0 560.4,237.8 561.1,212.7 675.4,187.5 752.5,162.3 770.0,162.3" fill="none" stroke="#7B61C9" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
   <circle cx="770.0" cy="162.3" r="4.5" fill="#7B61C9" stroke="#ffffff" stroke-width="2"/>
   <text x="764.0" y="150.3" text-anchor="end" class="val">★ 10</text>
   <text x="60" y="448" class="ax">Source: GitHub stargazers &amp; releases API · auto-updated</text>
