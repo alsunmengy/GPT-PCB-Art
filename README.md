@@ -36,18 +36,18 @@
 ## 📂 文件说明
 ```
 GPT-PCB-Art/
-├─ ProPrj_GPT_2026-10-11.epro2    # 嘉立创EDA 专业版工程源文件（可直接导入）
-├─ Gerber_PCB1_2026-10-11.zip     # Gerber 生产文件（可直接提交工厂打样）
 ├─ 素材/                           # 设计源素材（插画原图，可二次编辑）
 ├─ preview/                        # 成品预览图（正面 / 背面 2D 仿真）
 ├─ LICENSE                         # 开源协议（CC BY-NC-SA 4.0 全文）
 └─ README.md                       # 项目说明文档
 ```
 
+> 📦 工程源文件（`.epro2`）与 Gerber 压缩包统一在 [Releases](https://github.com/alsunmengy/GPT-PCB-Art/releases) 页面下载，请取最新版本。
+
 ## 🛠️ 使用方式
 ### 方式1：嘉立创EDA源工程
 1. 打开嘉立创EDA专业版；
-2. 文件 → 导入，选择本项目内的`ProPrj_GPT_2026-10-11.epro2`；
+2. 文件 → 导入，选择从 [Releases](https://github.com/alsunmengy/GPT-PCB-Art/releases) 下载的 `.epro2` 工程文件（推荐最新版本）；
 3. 核对：板厚、丝印工艺、阻焊层颜色；
 4. 直接提交打样。
 
@@ -58,7 +58,7 @@ GPT-PCB-Art/
 > 4. 彩色丝印存在轻微色彩偏差属于工厂正常现象。
 
 ### 方式2：Gerber生产文件
-直接使用 `Gerber_PCB1_2026-10-11.zip` 提交 PCB 工厂生产，注意和工厂确认支持**双面彩色丝印 + 沉金**工艺。
+在 [Releases](https://github.com/alsunmengy/GPT-PCB-Art/releases) 下载对应版本的 Gerber 压缩包提交 PCB 工厂生产，注意和工厂确认支持**双面彩色丝印 + 沉金**工艺。
 
 ## 📋 打样参数（嘉立创下单页参考值）
 
