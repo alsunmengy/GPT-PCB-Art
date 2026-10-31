@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" width="800" height="460" role="img" aria-labelledby="t d">
   <title id="t">alsunmengy/GPT-PCB-Art star history</title>
-  <desc id="d">13 GitHub stars from 2026-10-11 to 2026-10-30, 2 releases marked</desc>
+  <desc id="d">14 GitHub stars from 2026-10-11 to 2026-10-31, 2 releases marked</desc>
   <defs>
     <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#7B61C9" stop-opacity="0.34"/>
@@ -23,16 +23,16 @@
     .rel{font:400 10.5px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#B07E1E}
   </style>
   <text x="60" y="30" class="ttl">★ alsunmengy/GPT-PCB-Art · Star History</text>
-  <text x="60" y="50" class="sub">六 Astra 龙娘 · 13 stars · 2026-10-11 → 2026-10-30（创建至今）  ·  2 个 release</text>
+  <text x="60" y="50" class="sub">六 Astra 龙娘 · 14 stars · 2026-10-11 → 2026-10-31（创建至今）  ·  2 个 release</text>
   <line x1="60.0" y1="414.0" x2="770.0" y2="414.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="60.0" y1="338.5" x2="770.0" y2="338.5" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="60.0" y1="263.0" x2="770.0" y2="263.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="60.0" y1="187.5" x2="770.0" y2="187.5" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="60.0" y1="112.0" x2="770.0" y2="112.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/>
   <line x1="60.0" y1="112.0" x2="60.0" y2="414.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="237.5" y1="112.0" x2="237.5" y2="414.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="415.0" y1="112.0" x2="415.0" y2="414.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="592.5" y1="112.0" x2="592.5" y2="414.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/><line x1="770.0" y1="112.0" x2="770.0" y2="414.0" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/>
-  <line x1="60.2" y1="112.0" x2="60.2" y2="414.0" stroke="#B07E1E" stroke-opacity="0.75" stroke-width="1.2" stroke-dasharray="4 4"/><line x1="547.6" y1="112.0" x2="547.6" y2="414.0" stroke="#B07E1E" stroke-opacity="0.75" stroke-width="1.2" stroke-dasharray="4 4"/>
-  <text transform="translate(64.2,104.0) rotate(-90)" class="rel">龙娘</text><text transform="translate(551.6,87.0) rotate(-90)" class="rel">龙娘2</text>
+  <line x1="60.1" y1="112.0" x2="60.1" y2="414.0" stroke="#B07E1E" stroke-opacity="0.75" stroke-width="1.2" stroke-dasharray="4 4"/><line x1="523.8" y1="112.0" x2="523.8" y2="414.0" stroke="#B07E1E" stroke-opacity="0.75" stroke-width="1.2" stroke-dasharray="4 4"/>
+  <text transform="translate(64.1,104.0) rotate(-90)" class="rel">龙娘</text><text transform="translate(527.8,87.0) rotate(-90)" class="rel">龙娘2</text>
   <text x="52.0" y="408.0" text-anchor="end" class="ax">0</text><text x="52.0" y="342.5" text-anchor="end" class="ax">4</text><text x="52.0" y="267.0" text-anchor="end" class="ax">8</text><text x="52.0" y="191.5" text-anchor="end" class="ax">12</text><text x="52.0" y="125.0" text-anchor="end" class="ax">16</text>
-  <text x="60.0" y="434.0" text-anchor="start" class="ax">10-11</text><text x="237.5" y="434.0" text-anchor="middle" class="ax">10-16</text><text x="415.0" y="434.0" text-anchor="middle" class="ax">10-20</text><text x="592.5" y="434.0" text-anchor="middle" class="ax">10-25</text><text x="770.0" y="434.0" text-anchor="end" class="ax">10-30</text>
-  <polygon points="60.0,414.0 104.7,395.1 130.6,376.2 245.1,357.4 301.6,338.5 315.2,319.6 316.8,300.8 323.3,281.9 323.6,263.0 383.8,244.1 424.3,225.2 500.5,206.4 509.1,187.5 553.7,168.6 770.0,168.6 770.0,414.0 60.0,414.0" fill="url(#fill)"/>
-  <polyline points="60.0,414.0 104.7,395.1 130.6,376.2 245.1,357.4 301.6,338.5 315.2,319.6 316.8,300.8 323.3,281.9 323.6,263.0 383.8,244.1 424.3,225.2 500.5,206.4 509.1,187.5 553.7,168.6 770.0,168.6" fill="none" stroke="#7B61C9" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-  <circle cx="770.0" cy="168.6" r="4.5" fill="#7B61C9" stroke="#ffffff" stroke-width="2"/>
-  <text x="764.0" y="156.6" text-anchor="end" class="val">★ 13</text>
+  <text x="60.0" y="434.0" text-anchor="start" class="ax">10-11</text><text x="237.5" y="434.0" text-anchor="middle" class="ax">10-16</text><text x="415.0" y="434.0" text-anchor="middle" class="ax">10-21</text><text x="592.5" y="434.0" text-anchor="middle" class="ax">10-26</text><text x="770.0" y="434.0" text-anchor="end" class="ax">10-31</text>
+  <polygon points="60.0,414.0 102.5,395.1 127.1,376.2 236.0,357.4 289.8,338.5 302.8,319.6 304.2,300.8 310.4,281.9 310.7,263.0 367.9,244.1 406.5,225.2 479.0,206.4 487.1,187.5 529.6,168.6 764.0,149.8 770.0,149.8 770.0,414.0 60.0,414.0" fill="url(#fill)"/>
+  <polyline points="60.0,414.0 102.5,395.1 127.1,376.2 236.0,357.4 289.8,338.5 302.8,319.6 304.2,300.8 310.4,281.9 310.7,263.0 367.9,244.1 406.5,225.2 479.0,206.4 487.1,187.5 529.6,168.6 764.0,149.8 770.0,149.8" fill="none" stroke="#7B61C9" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="770.0" cy="149.8" r="4.5" fill="#7B61C9" stroke="#ffffff" stroke-width="2"/>
+  <text x="764.0" y="137.8" text-anchor="end" class="val">★ 14</text>
   <text x="60" y="448" class="ax">Source: GitHub stargazers &amp; releases API · auto-updated</text>
 </svg>
