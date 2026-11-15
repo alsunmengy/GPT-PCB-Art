@@ -4,9 +4,11 @@
 > **ChatGPT, 与无限智慧交流的良伴**
 
 >视频演示【[开源]谁不想要一个带NFC的GPT龙娘PCB呢-哔哩哔哩】 https://b23.tv/rteeCtj
-## ⭐ Star History
+## Star & Download History
+[![Star & download history](https://raw.githubusercontent.com/alsunmengy/GPT-PCB-Art/main/.github/charts/chart.svg)](https://github.com/alsunmengy/GPT-PCB-Art/stargazers)
 
-[![Star History](https://raw.githubusercontent.com/alsunmengy/GPT-PCB-Art/main/.github/star-history/chart.svg)](https://github.com/alsunmengy/GPT-PCB-Art/stargazers)
+> 上图上半是 star 累积，下半是 Release 下载累积，共用一条时间轴；竖虚线是发版时间。每天 UTC 3:10 自动重新采集并提交。
+
 
 [![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-点击支持-blue?style=for-the-badge)](https://github.com/alsunmengy/GPT-PCB-Art/stargazers)
 
