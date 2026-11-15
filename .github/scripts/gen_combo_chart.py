@@ -31,8 +31,10 @@ HIST = ".github/download-history/history.json"
 
 
 def gh(args):
-    out = subprocess.run(["gh", "api"] + args, capture_output=True, text=True, check=True).stdout
-    return json.loads(out)
+    r = subprocess.run(["gh", "api"] + args, capture_output=True, text=True)
+    if r.returncode != 0:
+        raise RuntimeError("gh api %s failed (%d): %s" % (" ".join(args), r.returncode, r.stderr.strip()[:600]))
+    return json.loads(r.stdout)
 
 
 def parse_t(s):
