@@ -383,10 +383,9 @@ def gen(repo, accent, created, stars, releases, assets, snapshots, now, bg_path=
       <stop offset="100%" stop-color="{accent}" stop-opacity="0.02"/>
     </linearGradient>
     <linearGradient id="veil" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
-      <stop offset="16%" stop-color="#ffffff" stop-opacity="0.74"/>
-      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.66"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.70"/>
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.88"/>
+      <stop offset="22%" stop-color="#ffffff" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.26"/>
     </linearGradient>
   </defs>
   <rect width="{W}" height="{H}" fill="#f7f5fb"/>
